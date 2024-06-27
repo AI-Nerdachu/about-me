@@ -2,8 +2,8 @@
 
 ## 👋 Introduction
 
-<div style="display: flex; align-items: center;">
- <img src="OIP.jpg" alt="Description" style="border-radius: 50%; width: 200px; height: 200px;">
+<link rel="stylesheet" type="text/css" href="style.css">
+<img src="OIP.jpg" alt="Description" class="circular-image">
   <p>Hello! I'm <strong>Prince Kansagra</strong>, an AI Engineer based in San Francisco. With over 6 years of experience in data science and AI, I specialize in machine learning, predictive modeling, computer vision, and natural language processing. Outside of work, I enjoy working out, trekking, and playing soccer.</p>
 </div>
 

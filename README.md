@@ -2,8 +2,15 @@
 
 ## 👋 Introduction
 
-<link rel="stylesheet" type="text/css" href="style.css">
-<img src="OIP.jpg" alt="Description" class="circular-image">
+<svg height="200" width="200">
+  <defs>
+    <clipPath id="circleView">
+      <circle cx="100" cy="100" r="100" fill="#FFFFFF" />
+    </clipPath>
+  </defs>
+  <image href="OIP.jpg" height="200" width="200" clip-path="url(#circleView)" />
+</svg>
+
   <p>Hello! I'm <strong>Prince Kansagra</strong>, an AI Engineer based in San Francisco. With over 6 years of experience in data science and AI, I specialize in machine learning, predictive modeling, computer vision, and natural language processing. Outside of work, I enjoy working out, trekking, and playing soccer.</p>
 </div>
 

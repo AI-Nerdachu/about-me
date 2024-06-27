@@ -1,13 +1,12 @@
 # 🧑‍💻 About Me
 
 ## 👋 Introduction
-Hello! I'm **Prince Kansagra**, an AI Engineer based in San Francisco. With over 6 years of experience in data science and AI, I specialize in machine learning, predictive modeling, computer vision, and natural language processing. Outside of work, I enjoy working out, trekking, and playing soccer.
 
 <div style="display: flex; align-items: center;">
   <img src="OIP.jpg" alt="Profile Picture" style="border-radius: 50%; width: 150px; height: 150px; margin-right: 20px;">
-  <p style="flex: 1;">Hello! I'm **Prince Kansagra**, an AI Engineer based in San Francisco. With over 6 years of experience in data science and AI, I specialize in machine learning, predictive modeling, computer vision, and natural language processing. Outside of work, I enjoy working out, trekking, and playing soccer.</p>
+  <p>Hello! I'm <strong>Prince Kansagra</strong>, an AI Engineer based in San Francisco. With over 6 years of experience in data science and AI, I specialize in machine learning, predictive modeling, computer vision, and natural language processing. Outside of work, I enjoy working out, trekking, and playing soccer.</p>
 </div>
----
+
 
 ## 💼 Professional Experience
 

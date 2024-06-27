@@ -3,7 +3,7 @@
 ## 👋 Introduction
 Hello! I'm **Prince Kansagra**, an AI Engineer based in San Francisco. With over 6 years of experience in data science and AI, I specialize in machine learning, predictive modeling, computer vision, and natural language processing. Outside of work, I enjoy working out, trekking, and playing soccer.
 
-![Profile Picture](images/profile.jpg)
+![Profile Picture]('images/profile.jpg')
 
 ---
 
